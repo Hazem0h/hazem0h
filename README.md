@@ -16,7 +16,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21861256" height="30" width="40" />
     </a>
     <a href="https://hazemkh.hashnode.dev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hkhairyh" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hkhairy" height="30" width="40" />
     </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -40,4 +40,4 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /> </a>
     
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkhairyh&show_icons=true&locale=en&layout=compact" alt="hkhairyh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkhairy&show_icons=true&locale=en&layout=compact" alt="hkhairy" /></p>
