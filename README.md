@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazem Khairy</h1>
 <h3 align="center">Hi, I'm an MLOPs Engineer at Adam.ai</h3>
 
-- 🌱 I’m currently learning **Prometheus for Monitoring**
+- 🌱 I’m currently learning **Bash Scripting**
 
 - 📝 Here's my blog [https://hazemkh.hashnode.dev/](https://hazemkh.hashnode.dev/)
 
