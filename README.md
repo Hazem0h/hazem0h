@@ -40,4 +40,5 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /> </a>
     
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkhairy&show_icons=true&locale=en&layout=compact" alt="hkhairy" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkhairy&show_icons=true&locale=en&layout=compact" alt="hkhairy" /></p> 
+-->
